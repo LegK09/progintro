@@ -1,4 +1,4 @@
 # progintro
 text zadaný vyučujícím 
-Under development now
+Under development later
 something
